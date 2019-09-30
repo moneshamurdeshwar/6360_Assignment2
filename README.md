@@ -17,6 +17,8 @@ References for this assignment:
 - Technologies, U. (2019). Unity - Scripting API: XR.InputTracking.GetLocalRotation. [online] Docs.unity3d.com. Available at: https://docs.unity3d.com/ScriptReference/XR.InputTracking.GetLocalRotation.html [Accessed 30 Sep. 2019].
 We have both contributed to this code in an equitable manner and agree that, to the best of our knowledge, it accurately represents our understanding for the assignment. 
 
+- Technologies, U. (2019). Unity - Scripting API: Vector3.Distance. [online] Docs.unity3d.com. Available at: https://docs.unity3d.com/ScriptReference/Vector3.Distance.html [Accessed 30 Sep. 2019].
+
 Monesha Murdeshwar 
 Lauren Lee Isaacs
 CS6360
